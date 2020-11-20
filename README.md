@@ -1,6 +1,6 @@
-# Nec_under_party
+# Nec under party
 
-Technical test
+Technical test<br>
 Date: September 2018
 
 Demo: https://necunderparty.gattaca.site/
