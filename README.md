@@ -3,6 +3,8 @@
 Technical test<br>
 Date: September 2018
 
+Stack: HTML, CSS, JS, jQuery
+
 Demo:<br> https://necunderparty.gattaca.site/
 
 Task:<br>
